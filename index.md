@@ -1,6 +1,8 @@
 # Keep It Moving (Austin)
 ===
-# Pain-Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through highest and best use of time and energy savings through mutually beneficial relationships.
+# Pain-Austin has 2nd worst traffic in Texas behind Houston. (*TomTom Traffic Index 2016) Most public polls peg traffic as the No. 1 problem facing Austin, and TEXAS Dept. of Transportation names the infamous section of I-35 near downtown Austin between U.S. Route 290 and Texas State Highway 71 as the No. 1 most congested roadway in the state.
+
+Every moment you are not driving, a car taken off the road: reduces pollution, transportation costs, traffic congestion, while increasing quality of life through highest and best use of time and energy savings through mutually beneficial relationships.
 =
 Ridesharing is: Green, cool, and easy
 1. Green-Reduces pollution in environment otherwise created by riding separately
